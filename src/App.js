@@ -4,7 +4,7 @@ import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Projects } from "./components/projects";
 
-import "./styles.css";
+import "./index.css";
 
 const VIEW_TO_COMP = {
   ABOUT: About,
