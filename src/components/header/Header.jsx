@@ -46,7 +46,7 @@ export const Header = ({ viewType, handleViewUpdate }) => {
           <a
             className="resume-link"
             target="_blank"
-            href="https://siddhantwaghjale.github.io/resume.pdf"
+            href="https://siddhantwaghjale.github.io/my-portfolio/resume.pdf"
           >
             resume
           </a>
