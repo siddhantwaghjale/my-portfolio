@@ -21,7 +21,7 @@ export const About = () => (
         address various business issues across industries.
       </div>
       <div className="about-image">
-        <img src="https://siddhantwaghjale.github.io/assets/Photo.jpg" />
+        <img src="https://siddhantwaghjale.github.io/Photo.jpg" />
       </div>
     </div>
   </div>
