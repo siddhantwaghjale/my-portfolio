@@ -6,7 +6,7 @@ export const About = () => (
       <div className="about-name">
         <b>Siddhant</b> Waghjale
       </div>
-      <div className="about-designation">MIT EECS, CSAIL, LIDS, IMES</div>
+      <div className="about-designation">Software Engineer @ Kaleyra, AI/ML Researcher</div>
     </div>
     <div className="about-body">
       <div className="about-text">
